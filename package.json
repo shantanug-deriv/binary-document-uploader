@@ -68,5 +68,9 @@
     "@binary-com/binary-document-uploader": "^2.4.8",
     "core-js": "^3.37.0",
     "md5": "^2.2.1"
+  },
+  "overrides": {
+    "json5": "^2.2.2",
+    "tsconfig-paths": "4.2.0"
   }
 }
